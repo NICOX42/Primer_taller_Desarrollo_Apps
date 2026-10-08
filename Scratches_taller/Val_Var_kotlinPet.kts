@@ -9,6 +9,6 @@ println("el paciente $nombre tiene $edad años, pesa $peso kg, es del sexo $sexo
 peso = 10f
 edad = 11
 
-println("un año después, el paciente $nombre tiene $edad años, pesa $peso kg, es del sexo $sexo y su estado de vacunación es $estadoDeVacunacion")
+println("Un año después, el paciente $nombre tiene $edad año(s), pesa $peso kg, es del séxo $sexo y su estado de vacunación es $estadoDeVacunacion")
 
 
